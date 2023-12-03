@@ -1,0 +1,15 @@
+body {
+  font-size: 23px;
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 42px;
+}
+
+.card-title {
+}
